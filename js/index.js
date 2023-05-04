@@ -11,14 +11,4 @@ router.handle()
 window.onpopstate = () => router.handle()
 window.route = () => router.route()
 
-// sendButton.addEventListener("submit", function () {
-//     alert("message sent successfully")
-// })
-
-// if (window.location.pathname == "/contact") {
-//     console.log('teste')
-    const sendButton = document.getElementById("myForm")
-    console.log(sendButton)
-//     console.log(sendButton)
-// }
 
