@@ -12,17 +12,11 @@ This project was developed with the following technologies:
 
 ## 🟢 Running
   
-  # initializing
-  npm init -y
-  
   # install packages
-  npm install lite-server 
+  npm install 
   
-  # adjustment
-  changing in package.json "teste" to "start": "lite-server"
-
   # running 
-  npm start
+  npm run start
 
 ## ✅ Preview
 
